@@ -1,14 +1,15 @@
 ---
 title: Open Software Week
-subtitle: introduction
 author: Neuroinformatics Unit
+title-slide-attributes:
+  data-background-image: img/sainsbury-wellcome-centre.jpg
 execute: 
   enabled: true
 format:
     revealjs:
-        theme: [default, niu-dark.scss]
-        logo: img/logo_niu_dark.png
-        footer: "Edit this footer | 2023-07-26"
+        theme: [default, niu-light.scss]
+        logo: img/logo_niu_light.png
+        footer: "NIU Open Software Week | 11-15 August 2025"
         slide-number: c
         menu:
             numbers: true
@@ -26,8 +27,8 @@ format:
           fontFamily: arial
           curve: linear
     html:
-        theme: [default, niu-dark.scss]
-        logo: img/logo_niu_dark.png
+        theme: [default, niu-light.scss]
+        logo: img/logo_niu_light.png
         date: "2023-07-05"
         toc: true
         code-overflow: scroll
@@ -44,24 +45,53 @@ format:
 
 ## Welcome
 
-* We are very happy to host you
-* OSW relies on you too
+![](img/sainsbury-wellcome-centre.jpg)
+
+## Neuroinformatics Unit
+
+![](img/niu-team.png)
 
 ## Code of Conduct
 
-* Reminder: please follow the code of conduct
-* Summary: be kind and professional
+* Reminder: please follow the [code of conduct](https://docs.google.com/document/d/1pQGML9twa-GnqQNDtNRg1P2_Wwzvl1b61A6fLzpY_2Q/edit?tab=t.6jlq0oph6gve)
+* Summary: be kind, respectful and professional
 * Contacts: Adam, Sofia, Niko or Alessandro
 
-## Maps
+## Schedule
 
-TODO: maps
+![](img/schedule-2025.png)
+
+## Building map
+
+![](img/swc-maps.png)
+
+Ask a member of NIU for a quiet space
 
 ## Ask for help
 
 * ask any member of NIU 
 * zulip or NIU
+* work together
 
-## Schedule
+## Join the socials
+* Monday: walk to Primrose Hill
+* Tuesday: Celtic folk music in King's Cross
+* Wednesday: pub quiz at SWC
+* Thursday: AlgoChill in Farringdon ([sign up](https://lu.ma/3z1ureee))
 
-TODO reminder of schedule
+## Thanks to our funders {.smaller}
+
+![](img/sponsor-logos.png){height=50% width=50% fig-align=center}
+
+* 2025 SSI fellowship "Kickstart a community of practice for open-source tools in animal behaviour" awarded to Niko Sirmpilatze
+* 2025 SSI fellowship "Bridging Bioimaging and Research Software Engineering" awarded to Alessandro Felder
+
+Made possible by
+
+![](img/swc-logo.webp){height=30% width=30% fig-align=center}
+
+ 
+
+![](img/general-funders.webp){height=30% width=30% fig-align=center}
+
+
