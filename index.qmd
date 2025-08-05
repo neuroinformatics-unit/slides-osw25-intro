@@ -6,8 +6,6 @@ execute:
   enabled: true
 format:
     revealjs:
-        theme: [default, niu-light.scss]
-        logo: img/logo_niu_light.png
         footer: "NIU Open Software Week | 11-15 August 2025"
         slide-number: c
         menu:
