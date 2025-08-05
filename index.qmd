@@ -47,6 +47,10 @@ format:
 
 ![](img/sainsbury-wellcome-centre.jpg)
 
+[Event guide](https://docs.google.com/document/d/1pQGML9twa-GnqQNDtNRg1P2_Wwzvl1b61A6fLzpY_2Q/edit?usp=sharing)
+
+[Event website](https://neuroinformatics.dev/open-software-week/)
+
 ## Neuroinformatics Unit
 
 ![](img/niu-team.png)
@@ -61,23 +65,35 @@ format:
 
 ![](img/schedule-2025.png)
 
-## Building map
+## Maps
 
+:::: {.columns}
+::: {.column}
 ![](img/swc-maps.png)
+:::
+
+::: {.column}
+![](img/fire-assembly-points.png)
+:::
+:::: 
+
 
 Ask a member of NIU for a quiet space
 
 ## Ask for help
 
 * ask any member of NIU 
-* zulip or NIU
+* Use the `OSW-2025` channel on Zulip
 * work together
+* let Adam know if you don't want to appear in photos
 
 ## Join the socials
 * Monday: walk to Primrose Hill
 * Tuesday: Celtic folk music in King's Cross
 * Wednesday: pub quiz at SWC
 * Thursday: AlgoChill in Farringdon ([sign up](https://lu.ma/3z1ureee))
+
+Feel free to self-organise using the "Social" topic on Zulip!
 
 ## Thanks to our funders {.smaller}
 
@@ -88,10 +104,18 @@ Ask a member of NIU for a quiet space
 
 Made possible by
 
-![](img/swc-logo.webp){height=30% width=30% fig-align=center}
+![](img/all-funders.png){height=80% width=80% fig-align=center}
 
- 
+## Enjoy!
 
-![](img/general-funders.webp){height=30% width=30% fig-align=center}
+:::: {.columns}
+::: {.column}
+* Remember to have fun!
+* Meet new people - follow the PacMan rule.
+:::
+::: {.column}
+![](img/pac-man.png)
+:::
+::::
 
 
