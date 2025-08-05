@@ -49,6 +49,8 @@ format:
 
 [Event website](https://neuroinformatics.dev/open-software-week/)
 
+These slides are available at https://neuroinformatics.dev/slides-osw25-intro
+
 ## Neuroinformatics Unit
 
 ![](img/niu-team.png)
