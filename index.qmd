@@ -1,7 +1,8 @@
 ---
-title: Welcome to NIU Open Software Week
+title: NIU Open Software Week
+author: Welcome!
 title-slide-attributes:
-  data-background-image: img/sainsbury-wellcome-centre.jpg
+    data-background-image: img/sainsbury-wellcome-centre.jpg          
 execute: 
   enabled: true
 format:
@@ -109,6 +110,7 @@ Made possible by
 ::: {.column}
 * Remember to have fun!
 * Meet new people - follow [the PacMan rule](https://psychsafety.com/the-pac-man-rule/).
+* Think of [hackday ideas!](https://github.com/neuroinformatics-unit/osw25-hackday/issues)
 :::
 ::: {.column}
 ![](img/pac-man.png)
