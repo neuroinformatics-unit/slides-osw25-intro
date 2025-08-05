@@ -2,7 +2,7 @@
 title: NIU Open Software Week
 title-slide-attributes:
   data-background-color: "#000"
-  data-background-image: img/sainsbury-wellcome-centre.jpg
+  data-background-image: img/sainsbury-wellcome-centre_darker.png
   data-background-opacity: “0.6”  
 author: Welcome!      
 execute: 
@@ -45,13 +45,20 @@ format:
 
 ## Useful links
 
+:::: {.columns}
+::: {.column}
 ![](img/sainsbury-wellcome-centre.jpg)
+:::
 
-[Event guide](https://docs.google.com/document/d/1pQGML9twa-GnqQNDtNRg1P2_Wwzvl1b61A6fLzpY_2Q/edit?usp=sharing)
+::: {.column}
+- [Event guide](https://docs.google.com/document/d/1pQGML9twa-GnqQNDtNRg1P2_Wwzvl1b61A6fLzpY_2Q/edit?usp=sharing)
+- [Event website](https://neuroinformatics.dev/open-software-week/)
+:::
+::::
 
-[Event website](https://neuroinformatics.dev/open-software-week/)
-
-These slides are available at https://neuroinformatics.dev/slides-osw25-intro
+::: aside
+These slides are available at <https://neuroinformatics.dev/slides-osw25-intro>
+:::
 
 ## Neuroinformatics Unit
 
