@@ -86,15 +86,14 @@ These slides are available at <https://neuroinformatics.dev/slides-osw25-intro>
 :::
 :::: 
 
-
 Ask a member of NIU for a quiet space
 
 ## Ask for help
 
-* ask any member of NIU 
+* Ask any member of NIU
 * Use the `OSW-2025` channel on Zulip
-* work together
-* let Adam know if you don't want to appear in photos
+* Work together
+* Let Adam know if you don't want to appear in photos
 
 ## Join the socials
 * Monday: walk to Primrose Hill
@@ -104,16 +103,21 @@ Ask a member of NIU for a quiet space
 
 Feel free to self-organise using the "Social" topic on Zulip!
 
-## Thanks to our funders {.smaller}
+## Made possible by {.smaller}
 
 ![](img/sponsor-logos.png){height=50% width=50% fig-align=center}
-
-* 2025 SSI fellowship "Kickstart a community of practice for open-source tools in animal behaviour" awarded to Niko Sirmpilatze
-* 2025 SSI fellowship "Bridging Bioimaging and Research Software Engineering" awarded to Alessandro Felder
-
-Made possible by
-
 ![](img/all-funders.png){height=80% width=80% fig-align=center}
+
+## The Software Sustainability Institute (SSI)
+<https://www.software.ac.uk/>
+
+>The SSI was the first organisation in the world dedicated to improving software in research. They help build better and more sustainable research software to enable world-class research.
+
+::: aside
+[Fellowship applications open](https://www.software.ac.uk/programmes/fellowship-programme/apply-fellowship-programme)
+
+(Niko and Alessandro are current fellows and happy to advise)
+:::
 
 ## Enjoy!
 
