@@ -88,6 +88,15 @@ These slides are available at <https://neuroinformatics.dev/slides-osw25-intro>
 
 Ask a member of NIU for a quiet space
 
+## Internet access
+
+* Eduroam
+* UCLGuest
+  * Requires registration
+  * Can use SWC address
+     * `25 Howland St, London W1T 4JG`
+
+
 ## Ask for help
 
 * Ask any member of NIU
