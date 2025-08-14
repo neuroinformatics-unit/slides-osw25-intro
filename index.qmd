@@ -88,15 +88,6 @@ These slides are available at <https://neuroinformatics.dev/slides-osw25-intro>
 
 Ask a member of NIU for a quiet space
 
-## Internet access
-
-* Eduroam
-* UCLGuest
-  * Requires registration
-  * Can use SWC address
-     * `25 Howland St, London W1T 4JG`
-
-
 ## Ask for help
 
 * Ask any member of NIU
@@ -158,7 +149,7 @@ Feel free to self-organise using the "Social" topic on Zulip!
 
 ## Goal
 
-Enable knowledge exchange through hands-on collaboration
+Enable knowledge exchange through hadn
 
 :::: {.columns}
 ::: {.column}
@@ -182,7 +173,7 @@ Opportunity to foster:
 :::
 ::::
 
-## Hacking tips
+## Hacking tips {.smaller}
 
 Everyone gets opportunity to contribute
 
@@ -201,16 +192,18 @@ Look after yourself
 * Take breaks, stretch, rest your eyes
 * Enjoy
 
-## Hacking tips
+## Hacking tips {.smaller}
 
 * Settle on doable plan
 
 Things will go wrong – that’s OK!
+
 * Work incrementally and version-control your work
 * You have a very short amount of time!
 * Focus on minimum viable "product"
 
 Report back in [short lightning presentations at 4 PM](https://docs.google.com/presentation/d/1-4tv1ZKLjbLAY7IUUaeSmc6_KXqrsDXM9DAFLH8UqiA/edit?usp=sharing)
+
 * What you did
 * What you learnt
 * Future work
