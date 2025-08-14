@@ -88,15 +88,6 @@ These slides are available at <https://neuroinformatics.dev/slides-osw25-intro>
 
 Ask a member of NIU for a quiet space
 
-## Internet access
-
-* Eduroam
-* UCLGuest
-  * Requires registration
-  * Can use SWC address
-     * `25 Howland St, London W1T 4JG`
-
-
 ## Ask for help
 
 * Ask any member of NIU
@@ -140,5 +131,91 @@ Feel free to self-organise using the "Social" topic on Zulip!
 ![](img/pac-man.png)
 :::
 ::::
+
+
+# Hackday intro
+
+## Our definition of "hack"
+
+"hack": collaborate on a small project in quick, dirty and fun way
+
+## Schedule
+- 10-10:30 Intro/Pitches
+- 10:30-11 Group formation
+- 11-1     Hack
+- 1-2      Lunch
+- 2-4      Hack
+- 4-5      Report back
+
+## Goal
+
+Enable knowledge exchange through hadn
+
+:::: {.columns}
+::: {.column}
+Focus on collaboration:
+
+* Active listening
+* Being inclusive
+* Taking initiative
+* Planning
+* Stepping out of your comfort zone
+:::
+
+::: {.column}
+Opportunity to foster:
+
+* Collaborative skills
+* Coding skills
+* Creativity skills
+* Social skills
+* Time-management skills
+:::
+::::
+
+## Hacking tips {.smaller}
+
+Everyone gets opportunity to contribute
+
+* Be flexible and inclusive
+* Code is not the only thing that needs doing
+* Planning, documenting, organizing, presenting, reading, time-keeping…
+
+Working together
+
+* Start by introducing yourself, your work and your skills to the group
+* Make use of GitHub, Shared google doc
+* Keep in touch with the group throughout
+
+Look after yourself
+
+* Take breaks, stretch, rest your eyes
+* Enjoy
+
+## Hacking tips {.smaller}
+
+* Settle on doable plan
+
+Things will go wrong – that’s OK!
+
+* Work incrementally and version-control your work
+* You have a very short amount of time!
+* Focus on minimum viable "product"
+
+Report back in [short lightning presentations at 4 PM](https://docs.google.com/presentation/d/1-4tv1ZKLjbLAY7IUUaeSmc6_KXqrsDXM9DAFLH8UqiA/edit?usp=sharing)
+
+* What you did
+* What you learnt
+* Future work
+
+We will check in regularly
+
+## What's next
+
+[GitHub project board](https://github.com/neuroinformatics-unit/osw25-hackday/issues)
+
+# Hack!
+
+
 
 
