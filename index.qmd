@@ -149,7 +149,7 @@ Feel free to self-organise using the "Social" topic on Zulip!
 
 ## Goal
 
-Enable knowledge exchange through hadn
+Enable knowledge exchange through hands-on work
 
 :::: {.columns}
 ::: {.column}
@@ -202,7 +202,7 @@ Things will go wrong – that’s OK!
 * You have a very short amount of time!
 * Focus on minimum viable "product"
 
-Report back in [short lightning presentations at 4 PM](https://docs.google.com/presentation/d/1-4tv1ZKLjbLAY7IUUaeSmc6_KXqrsDXM9DAFLH8UqiA/edit?usp=sharing)
+Report back in short lightning presentations at 4 PM [(joint slide-deck)](https://docs.google.com/presentation/d/1-4tv1ZKLjbLAY7IUUaeSmc6_KXqrsDXM9DAFLH8UqiA/edit?usp=sharing)
 
 * What you did
 * What you learnt
