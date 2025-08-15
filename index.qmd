@@ -149,7 +149,7 @@ Feel free to self-organise using the "Social" topic on Zulip!
 
 ## Goal
 
-Enable knowledge exchange through hadn
+Enable knowledge exchange through hands-on work
 
 :::: {.columns}
 ::: {.column}
